@@ -12,5 +12,8 @@
 Бодит үр дүн: "Internal Server Error" гэсэн серверийн алдаа гарч вэб хуудас гацаж байна.
 
 Ноцтой байдал: Critical — Аппын үндсэн хэсэг эсвэл холбоос бүрэн ажиллахгүй, сервер талаас алдаа буцааж байна.
-Хавсралт: screenshots/BUG-09.png · evidence/bug-09-curl.txt
+## Хавсралт
+![BUG-09](../screenshots/BUG-09.png)
+
+API нотолгоо: [evidence/bug-09-curl.txt](../evidence/bug-09-curl.txt)
 Олдсон аялал: Saboteur
